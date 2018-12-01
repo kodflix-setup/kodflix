@@ -11,7 +11,7 @@ class App extends Component {
           <p>
             <h1>Welcome to Kodflix, work in progress!!!</h1>
             <h3>More content to be added soon!</h3>
-            <h5>Don't miss our videos on Youtube!</h5>
+            <h5>Don't miss our videos on Youtube!!!!!</h5>
           </p>
         </header>
       </div>
