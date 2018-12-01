@@ -9,7 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            <h1>Welcome to Kodflix, work in progress!</h1>
+            <h1>Welcome to Kodflix, work in progress!!!</h1>
+            <h3>More content to be added soon!</h3>
           </p>
         </header>
       </div>
